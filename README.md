@@ -14,6 +14,8 @@ https://x.com/riffccproject
 ## What is FreePress?
 FreePress is a decentralised plugin marketplace system for WordPress, built using something called Defederation (which we use Orbiter to achieve). Or, we hope, it will be.
 
+It will allow community members to cooperatively build up a free but high quality alternative to WordPress.org's plugin marketplace, without having to converge on just one "winner" - anyone can run this.
+
 (We still need to build it!)
 
 ## What this is so far
