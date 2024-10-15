@@ -1,6 +1,8 @@
 # freepress
 Decentralised WordPress plugin marketplaces for Orbiter. 
 
+Don't fork, rescue.
+
 THIS IS NOT READY YET IN ANY WAY
 
 https://x.com/riffccproject
