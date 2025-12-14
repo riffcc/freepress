@@ -1,5 +1,7 @@
 # freepress
-Decentralised WordPress plugin marketplaces for Orbiter. 
+Decentralised WordPress plugin marketplaces for Orbiter.
+
+[DEPRECATED]
 
 Don't fork, rescue.
 
