@@ -1,7 +1,7 @@
 # freepress
 Decentralised WordPress plugin marketplaces for Orbiter.
 
-[DEPRECATED]
+[DEPRECATED] - use AspirePress instead
 
 Don't fork, rescue.
 
